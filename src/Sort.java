@@ -1,8 +1,5 @@
 import java.util.Scanner;
 
-/**
- * Created by java on 1/31/2016.
- */
 
 public class Sort {
     public static void main(String[] args) {
